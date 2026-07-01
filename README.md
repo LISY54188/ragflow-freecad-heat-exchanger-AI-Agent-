@@ -242,7 +242,7 @@ Docker, Ollama，RAGFlow, Dify，Aspen Plus, Aspen EDR，SW6，Claude Code，Fre
 
 -内置的语言模型，意图识别与分流，本质是与非门
 
--agent的memory与思考透明化？或者再优化？
+-agent的memory与思考过程如何更加透明化？或者再优化？
 
 ↓
 
@@ -308,4 +308,4 @@ Docker, Ollama，RAGFlow, Dify，Aspen Plus, Aspen EDR，SW6，Claude Code，Fre
 
 **5.claudecode时期：**
 
-**6.**
+**6. ？ **
