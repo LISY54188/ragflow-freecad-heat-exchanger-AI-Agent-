@@ -299,13 +299,19 @@ Docker, Ollama，RAGFlow, Dify，Aspen Plus, Aspen EDR，SW6，Claude Code，Fre
 ## 探索历程
 **1.coze平台时期：**
 提示词优化是主要任务，期望是做一些提示词的优化。第一次接触工作流。第一次接触agent。
--->
+
+
 **2.ragflow平台时期：**
+希望能够本地化部署，达到保密且脱离云端部署的效果，使用的技术是ollama作为LLM下载引擎，docker作为容器封装，在ragflow上面作为工作流检索
 
-**3.ragflow+aspen+sw6时期：**
+但是RAGFLOW的工作流逻辑很简陋，同一储存类型格式会被新的覆写，还存在节点路由器选择的bug，作为知识库检索很好，但是作为工作流来看存在很多问题
 
-**4.ragflow+dify+aspen+sw6时期：**
+**3.ragflow+dify时期：**
+尝试接入dify，但是发现dify无法很好地去调用ragflow，端口存在冲突
+
+**4.ragflow+aspen+sw6时期：**
+利用aspen和sw6进行对比验证，核对ragflow的准确性
 
 **5.claudecode时期：**
-
+完成设计到建模的全流程落地
 **6. ？ **
