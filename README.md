@@ -210,7 +210,8 @@ MIT License
 
 
 ## 🙏 致谢
-
+我的两位导师，还有我的队友们。
+以及：
 - [RAGFlow](https://github.com/infiniflow/ragflow) - 深度文档理解与检索
 - [FreeCAD](https://www.freecad.org/) - 开源参数化三维建模
 - [Claude Code](https://claude.ai/code) - AI 编程助手
